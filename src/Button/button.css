@@ -1,8 +1,8 @@
 .base-button {
-  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
   border: 0;
-  border-radius: 3.5em;
+  border-radius: 3.0em;
   cursor: pointer;
   display: inline-block;
   line-height: 1;
