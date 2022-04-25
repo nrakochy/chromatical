@@ -1,0 +1,3 @@
+## Chromatical
+
+How Chromatic works
